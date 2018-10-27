@@ -4,5 +4,6 @@ int main()
 {
     printf("hello-git\n");
     printf("changes after first commit\n");
+    printf("second commit\n");
 }
 
